@@ -7,3 +7,5 @@
 ---
 - [x] [Exercícios da 5ª aula.](https://github.com/PedroSantana2/python-basico-solyd/blob/main/exercicios/aula_05.py)
 ---
+- [x] [Exercícios da 7ª aula.](https://github.com/PedroSantana2/python-basico-solyd/blob/main/exercicios/aula_07.py)
+---
