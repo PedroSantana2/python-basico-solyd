@@ -5,4 +5,5 @@
 ---
 - [x] [Exercícios da 3ª aula.](https://github.com/PedroSantana2/python-basico-solyd/blob/main/exercicios/aula_03.py)
 ---
- 
+- [x] [Exercícios da 5ª aula.](https://github.com/PedroSantana2/python-basico-solyd/blob/main/exercicios/aula_05.py)
+---
