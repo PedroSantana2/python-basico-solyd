@@ -9,5 +9,5 @@
 ---
 - [x] [Exercícios da 7ª aula.](https://github.com/PedroSantana2/python-basico-solyd/blob/main/exercicios/aula_07.py)
 ---
-- [x] [Exercícios da 9ª aula.](https://github.com/PedroSantana2/python-basico-solyd/blob/main/exercicios/aula_09.py)
+- [x] [Exercícios da 9ª aula.](https://github.com/PedroSantana2/python-basico-solyd/tree/main/exercicios/aula_09)
 ---
